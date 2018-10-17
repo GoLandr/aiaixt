@@ -1,9 +1,12 @@
-# lottery
-一个类似淘宝可无限开店...可无限开彩票平台的彩票系统
+# Lottery + ethereum
+Source: 可无限开彩平台的彩票系统、博彩平台、博彩系统--重庆时时彩 北京pk10 11选五 北京赛车 西藏时时彩 天津时时彩 
+
+一个类似淘宝可无限开店.
+可无限开彩票平台的彩票系统
 
 go1.9以上版本、postgresql、redis
 
-数据采集端在https://github.com/a7a2/cp33client
+数据采集端在 https://github.com/a7a2/cp33client
 
 todo：
 
